@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gresources>
+    <gresource prefix="libvirgo/github/io/clash_gtk">
+        <file compressed="true" preprocess="xml-stripblanks">window.xml</file>
+    </gresource>
+</gresources>
